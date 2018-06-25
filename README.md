@@ -1,0 +1,1 @@
+# osu! Ranked Map Feed
